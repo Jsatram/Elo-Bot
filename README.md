@@ -1,9 +1,12 @@
-# Neural-Network
+# Elo-Bot
 ![](Pong_Juggler_NN.PNG)
 # About
-This is a repos that contains 2 class files one that creates a simple Neural Network where the end-user can choose the number of input nodes, hidden nodes, and output nodes this Neural Network can be applied to many programs and games. I personally have applied this to a few things, a game of pong, a modified version of pong where it juggles 2 balls and currently working on a 2D scrolling game to try it on.
+This is discord bot that was made for the hundreds of Art Of Victory dicord members. This bot calculates and stores users Elo rating, Wins, Losses, winstreak, username, userid, elo bonus, etc. The bot uses all of this information to form the most balanced teams possible for competitive matches. This bot was made because the COD community has a large void that has yet to be filled by the game developers. The users want a good well balanced rating system that rewards skill vs how often you play. Since this system is a result based system meaning it is based on winning or losing it dosen't reward the players for player often but rather winning. 
 
 # What I learned
-What a Neural Network is and how it functions |
-Practice with Matrices and Linear Algebra |
-Machine Learning
+How to use discord API |
+How to interact and use VPS |
+Pushing a product infront of hundreds of people |
+User proofing|
+
+
